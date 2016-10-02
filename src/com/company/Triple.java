@@ -2,7 +2,7 @@
 package com.company;
 
 public class Triple<S , D, I> {
-    //fields
+    
     private S left;
     private D middle;
     private I right;
